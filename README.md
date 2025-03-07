@@ -11,7 +11,11 @@ dynamique, immersive et engageante.
 ## 👥 Contributors
 
 Mesgui Alaa
+
 Nait Cherif Sabrinel
+
 Hammam Safia Manel
+
 Cherif Hiba Khadidja
+
 Djazari Ines  
