@@ -6,3 +6,12 @@ multimédia vulgarisant un sujet technique complexe, la Blockchain, tout en dém
 maîtrise approfondie de la synchronisation multimédia. Le projet vise à intégrer de manière
 harmonieuse des vidéos, des sons, des images et des textes afin de créer une présentation
 dynamique, immersive et engageante.
+
+
+## 👥 Contributors
+
+Mesgui Alaa
+Nait Cherif Sabrinel
+Hammam Safia Manel
+Cherif Hiba Khadidja
+Djazari Ines  
