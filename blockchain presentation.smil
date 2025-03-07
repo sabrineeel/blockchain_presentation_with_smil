@@ -1,0 +1,426 @@
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language">
+  <head>
+    <layout>
+    <!-- First  -->
+      <region id="fond1" top="0px" left="0px" width="100%" height="50%" z-index="2" />
+
+      <region id="fond2" top="150px" left="0px" width="100%" height="180px" z-index="3" />
+
+      <region id="titre1" top="50px" left="30px" width="70%" height="50%" fit="fill"  z-index="4" />
+      <region id="titre2" top="390px" left="30px" width="100%" height="50%" fit="fill"  z-index="4" />
+    
+    <!-- Intro  -->
+      <region id="background" top="0%" left="0%" width="100%" height="100%" z-index="1" />
+      <region id="textOverlay" top="35%" left="2%" width="80%" height="20%" z-index="2" />
+      <region id="textOverlay2" top="45%" left="2%" width="80%" height="20%" z-index="2" />
+      <region id="title" top="15%" left="20%" width="70%" height="50%" fit="fill"  z-index="3" />
+      <region id="icon" top="55%" left="60%" width="80px" height="80px" z-index="2" />
+
+      
+    <!-- background region -->
+      <region id="background" top="0px" left="0px" width="100%" height="100%" />
+
+    <!-- Characteristics -->
+
+      <region id="char" top="40px" left="30px" width="70%" height="50%" fit="fill" z-index="3" />
+
+      <!-- Define the region for the text -->
+      <region id="part1" top="85px" left="70px" width="80%" height="20%" z-index="5" />
+      <region id="part2" top="185px" left="70px" width="80%" height="20%" z-index="5" />
+      <region id="part3" top="90px" left="70px" width="80%" height="20%" z-index="5" />
+      <region id="part4" top="185px" left="70px" width="80%" height="20%" z-index="5" />
+
+    <!-- Fonctionnement -->
+
+      <!-- background region -->
+      <region id="background" top="0" left="0" width="100%" height="100%" fit="fill" />
+        <!-- title region -->
+      <region id="titre" top="40%" left="05%" width="50%" height="15%" fit="fill" />
+        <!-- image region -->
+      <region id="image" top="45%" left="62%" width="30%" height="30%" fit="meet" />
+
+    <!-- examples -->
+      <region id="imgtitre-exmp" top="-80px" left="-100px" width="70%" height="50%" fit="fill" z-index="3" />
+      
+      <!-- Define the region for the text -->
+      <region id="case1" top="90px" left="20px" width="500px" height="900px" z-index="2" />
+      <region id="case2" top="170px" left="20px" width="500px" height="900px" z-index="2" />
+      <region id="case3" top="230px" left="20px" width="500px" height="900px" z-index="2" />
+      <region id="case4" top="310px" left="20px" width="500px" height="900px" z-index="2" />
+
+
+
+      <!-- Additional regions for the new page -->
+      <region id="newVideoRegion" top="0px" left="0px" width="100%" height="100%" z-index="2" />
+
+    <!-- advantages and disadvantages -->
+      
+      <!-- region for the icon -->
+      <region id="iconRegion1" top="90px" left="20px" width="40px" height="40px" z-index="2" />
+      <region id="iconRegion2" top="135px" left="20px" width="40px" height="40px" z-index="2" />
+      <region id="iconRegion3" top="185px" left="20px" width="40px" height="40px" z-index="2" />
+      <region id="iconRegion4" top="235px" left="20px" width="40px" height="40px" z-index="2" />
+      <region id="iconRegion5" top="295px" left="20px" width="40px" height="40px" z-index="2" />
+      <region id="iconRegion6" top="350px" left="20px" width="40px" height="40px" z-index="2" />
+
+      <region id="imgtitre" top="40px" left="30px" width="70%" height="50%" fit="fill"  z-index="3" />
+      
+      <!-- region for the text -->
+
+      <region id="txt1" top="95px" left="70px" z-index="2" />
+      <region id="txt2" top="150px" left="70px" z-index="2" />
+      <region id="txt3" top="188px" left="70px" z-index="2" />
+      <region id="txt4" top="243px" left="70px"  z-index="2" />
+      <region id="txt5" top="298px" left="70px"  z-index="2" />
+      <region id="txt6" top="360px" left="70px" z-index="2" />
+
+
+      <region id="dis_txt1" top="103px" left="70px" z-index="2" />
+      <region id="dis_txt2" top="153px" left="70px" z-index="2" />
+      <region id="dis_txt3" top="200px" left="70px" z-index="2" />
+      <region id="dis_txt4" top="250px" left="70px"  z-index="2" />
+      <region id="dis_txt5" top="305px" left="70px"  z-index="2" />
+      <region id="dis_txt6" top="360px" left="70px" z-index="2" />
+
+    <!-- ccl -->
+      <region id="background-ccl" top="0px" left="0px" width="100%" height="100%" z-index="1" />
+      
+      <region id="textOverlay-ccl" top="200px" left="30px" width="80%" height="20%" z-index="2" />
+
+      <region id="textOverlay2-ccl" top="250px" left="30px" width="80%" height="20%" z-index="2" />
+
+      <region id="title-ccl" top="75px" left="120px" width="70%" height="50%" fit="fill"  z-index="3" />
+
+      <region id="thanks-ccl" top="150px" left="60px" width="70%" height="50%" fit="fill"  z-index="3" /> 
+
+      <region id="icon-ccl" top="200px" left="540px" width="80px" height="80px" z-index="2" />
+
+    <!-- thanks -->
+      <region id="thanks1" top="30px" left="30px" width="70%" height="50%" fit="fill"  z-index="3" />
+
+      <region id="thanks2" top="80px" left="35px" width="70%" height="50%" fit="fill"  z-index="3" /> 
+
+      <region id="alaa" top="125px" left="85px" width="70%" height="50%" fit="fill"  z-index="3" /> 
+      <region id="ines" top="260px" left="83px" width="70%" height="50%" fit="fill"  z-index="3" />
+      <region id="sabrinel" top="193px" left="210px" width="70%" height="50%" fit="fill"  z-index="3" />
+      <region id="manel" top="125px" left="410px" width="70%" height="50%" fit="fill"  z-index="3" />
+      <region id="hiba" top="260px" left="410px" width="70%" height="50%" fit="fill"  z-index="3" />
+   
+    </layout>
+  </head>
+
+
+
+
+<body>
+
+<seq>
+
+<!-- First  -->
+    <par dur="18.69s">
+      <video src="bg/first.mp4" begin="0s" region="background" fit="fill" repeatCount="indefinite"/>
+
+      <par begin="0s" dur="18.69s">
+        <!-- Background video  -->
+        
+
+        <audio src="voice over/first.mp3" />
+
+        <img src="bg/fond2.png" region="fond1" begin="0s" fit="fill" />
+        <img src="bg/pic.png" region="fond2" begin="0s" fit="fill" />
+
+
+        <smilText region="titre1" begin="2s" textFontSize="26" textColor="white">
+        Blockchain: A New Era of Digital Innovation
+        </smilText>
+
+        <smilText region="titre2" begin="5s" textFontSize="20" textColor="white">
+        Understanding the Foundation of Decentralized Technology
+        </smilText>
+
+        <!-- image icon in iconRegions <img src="icons/network.png" region="iconRegion1" begin="2s" fit="fill" /> -->
+       </par>
+      </par>
+
+<!-- Intro -->
+    <par dur="24s">
+      <video src="bg/introbg2.mp4" region="background" begin="0s" dur="24s" fit="fill" repeatCount="indefinite"/>
+
+      <smilText region="title" begin="0s" textFontSize="26" textColor="white">
+      Blockchain Revolution:</smilText>
+      
+      <smilText region="textOverlay" begin="2s" textFontSize="16" textColor="white">
+      Blockchain is an information storage and transmission technology that is transparent, secure, and operates without a central control body.</smilText>
+
+      <img src="icons/database.png" region="icon" begin="12s" fit="fill" />
+
+      <smilText region="textOverlay2" begin="11s" textFontSize="16" textColor="white">
+      It constitutes a database which contains the history of all exchanges carried out between its users since its creation, secure and distributed it is shared by its different users, without an intermediary.</smilText>
+      
+      <audio src="voice over/introvoiceover.mp3" begin="0s" />
+    </par>
+
+<!-- Characteristics -->
+    <par dur="59.5s">
+      <video src="bg/background.mp4" region="background" begin="0s" fit="fill" repeatCount="indefinite"/>
+
+      <smilText region="char" begin="0s" dur="59.5s" textFontSize="26" textColor="white">
+        Characteristics of a blockchain:
+      </smilText>
+
+      <seq>
+
+        <par dur="32.5s">
+          <audio src="voice over/sound1.mp3"/>
+          
+          <smilText region="part1" begin="2s" dur="32.5s" textFontSize="16" textColor="white">
+          Decentralized:
+          Blockchain is maintained by a network of nodes rather than
+          a central authority. This distribution makes it resistant
+          to censorship, fraud, and manipulation, as no single entity
+          has control over the network.
+          </smilText>
+
+            <smilText region="part2" begin="16s" dur="32.5s" textFontSize="16" textColor="white">
+          Secure:
+            Blockchain employs cryptographic techniques that link each 
+            transaction to the previous one, creating a chain that is 
+            highly secure. Modifying any part of this chain would require
+            significant resources and network consensus, making tampering
+            nearly impossible.
+          </smilText>
+        </par>
+        <par dur="26s">
+          <audio src="voice over/sound2.mp3" begin="0s"/>
+
+          <smilText region="part3" begin="2.5s" textFontSize="16" textColor="white">
+          Transparent:
+            All transactions on the blockchain are recorded in a public
+            ledger, allowing anyone to view and trace them.
+            This transparency fosters trust and accountability among users.
+          </smilText>
+
+            <smilText region="part4" begin="15s" textFontSize="16" textColor="white">
+            Immutable: 
+              Once a transaction is recorded, it cannot be modified or deleted.
+              This immutability ensures that records remain accurate and
+              reliable over time.
+          </smilText>
+        </par>
+
+      </seq>
+    </par>
+
+<!-- Fonctionnement -->
+    <seq>
+            <par dur="128s"> 
+                <img region="background" src="bg/imageDeFond.jpg" dur="3s" />   
+                <img region="image" src="bg/image1.png" dur="3s" />
+                <img region="titre" src="title/title.png" dur="3s" />
+                <video region="background" src="video/videoFonct.mp4" begin="3s" />
+                <audio src="voice over/music.mp3" begin="3s" dur="125s" />
+                <audio src="voice over/audio1.mp3" begin="4s" dur="12s" />
+                <audio src="voice over/audio2.mp3" begin="16s" dur="9.2s" />
+                <audio src="voice over/audio3.mp3" begin="27s" dur="28s" />
+                <audio src="voice over/audio4.mp3" begin="55s" dur="16s" />
+                <audio src="voice over/audio5.mp3" begin="71s" dur="27s" />
+                <audio src="voice over/audio6.mp3" begin="98s" dur="27s" />
+            </par>
+        </seq>
+
+<!-- examples -->
+  <seq>
+     <!-- First page -->
+      <par dur="38s">
+        <!-- Background video -->
+        <video src="bg/background.mp4" region="background" begin="0s" fit="fill" repeatCount="indefinite"/>
+
+        <img region="imgtitre-exmp" src="title/title-exmp.png" dur="38s" />
+        
+        <!-- Text  -->
+        
+        <smilText region="case1" textFontSize="16" textColor="white" begin="2s">
+            -Finance (Decentralized Finance Defi):
+            Blockchain enables automated, decentralized financial services like lending, borrowing, and trading through smart contracts and tokenized assets.
+        </smilText>
+
+        <smilText region="case2" textFontSize="16" textColor="white" begin="2s">
+            -Healthcare (Patient Records):
+            Blockchain secures and shares medical records immutably, enhancing privacy and interoperability.
+        </smilText>
+
+        <smilText region="case3" textFontSize="16" textColor="white" begin="2s">
+            -Entertainment (Digital Rights Management): 
+            Blockchain protects creators' rights, ensures fair compensation, and secures digital content distribution.
+        </smilText>
+
+        <smilText region="case4" textFontSize="16" textColor="white" begin="2s">
+            -Government (Voting): 
+            Blockchain ensures secure, tamper-proof voting systems, increasing trust and transparency in elections.
+        </smilText>
+
+        <!-- Audio for the first page -->
+        <audio src="voice over/examples.mp3" begin="0s" dur="38s" />
+      </par>
+
+      <!-- Second page -->
+      <par dur="80s">
+        <!-- video -->
+        <video src="video/video.mp4" region="newVideoRegion" begin="0s" dur="80s" fit="fill" />
+        
+        <!-- Sound -->
+        <audio src="voice over/exmp voice.mp3" begin="0s" dur="80s" />
+      </par>
+    </seq>
+
+<!-- advantages and disadvantages -->
+    <par dur="66">
+      <video src="bg/background.mp4" region="background" begin="0s" fit="fill" repeatCount="indefinite"/>
+
+      <seq>
+
+      <par dur="38s">
+        <audio src="voice over/advantages.mp3"/>
+
+        <!--<img region="imgtitre" src="titres/titre.png" begin="0s"/>-->
+
+        <smilText region="imgtitre" begin="0s" textFontSize="26" textColor="white">
+        Advantages of blockchain:
+        </smilText>
+
+        <!-- image icon in iconRegions -->
+        <img src="icons/network.png" region="iconRegion1" begin="2s" fit="fill" />
+        <smilText region="txt1" begin="2s" textFontSize="14" textColor="white">
+        Decentralization: Eliminates the need for a central authority, enabling peer-to-peer interactions.
+        </smilText>
+
+        <img src="icons/wallet.png" region="iconRegion2" begin="8s" fit="fill" />
+        <smilText region="txt2" begin="8s" textFontSize="14" textColor="white">
+        Transparency: Provides a clear and immutable ledger that ensures accountability.
+        </smilText>
+
+        <img src="icons/security.png" region="iconRegion3" begin="13s" fit="fill" />
+        <smilText region="txt3" begin="13s" textFontSize="14" textColor="white">
+        Security: Utilizes cryptographic techniques, making it highly secure against tampering and fraud.
+        </smilText>
+    
+
+        <img src="icons/chart.png" region="iconRegion4" begin="18s" fit="fill" />
+        <smilText region="txt4" begin="18s" textFontSize="14" textColor="white">
+        Traceability: Ensures detailed tracking of transactions, improving trust in 
+        supply chains and records.
+        </smilText>
+
+
+        <img src="icons/transfer.png" region="iconRegion5" begin="25s" fit="fill" />
+        <smilText region="txt5" begin="25s" textFontSize="14" textColor="white">
+        Efficiency: Reduces the need for intermediaries, speeding up 
+        transactions and reducing costs.
+        </smilText>
+
+        <img src="icons/node.png" region="iconRegion6" begin="32s" fit="fill" />
+        <smilText region="txt6" begin="32s" textFontSize="14" textColor="white">
+        Immutability: Data once recorded can't be altered,ensuring data integrity.
+        </smilText>
+      </par>
+
+      <par dur="27s">
+        <audio src="voice over/disadvantages.mp3" dur="27s"/>
+
+        <!--<img region="imgtitre" src="titres/titre.png" begin="0s"/>-->
+
+        <smilText region="imgtitre" begin="1s" textFontSize="26" textColor="white">
+        Disadvantages of blockchain:
+        </smilText>
+
+        <!-- image icon in iconRegions -->
+        <img src="icons/transaction-2.png" region="iconRegion1" begin="4s" fit="fill" />
+        <smilText region="dis_txt1" begin="4s" textFontSize="14" textColor="white">
+        Scalability: Struggles with handling a high number of transactions.
+        </smilText>
+
+        <img src="icons/proof-of-work.png" region="iconRegion2" begin="8s" fit="fill" />
+        <smilText region="dis_txt2" begin="8s" textFontSize="14" textColor="white">
+        Energy Consumption: Requires significant energy, especially with Proof of Work.
+        </smilText>
+
+        <img src="icons/ledger.png" region="iconRegion3" begin="12s" fit="fill" />
+        <smilText region="dis_txt3" begin="12s" textFontSize="14" textColor="white">
+        Cost: Infrastructure and maintenance can be expensive.
+        </smilText>
+    
+
+        <img src="icons/network-1.png" region="iconRegion4" begin="15s" fit="fill" />
+        <smilText region="dis_txt4" begin="15s" textFontSize="14" textColor="white">
+        Complexity: Difficult to understand and implement for many.
+        </smilText>
+
+
+        <img src="icons/search.png" region="iconRegion5" begin="19s" fit="fill" />
+        <smilText region="dis_txt5" begin="19s" textFontSize="14" textColor="white">
+        Irreversibility: Errors or fraud cannot be easily corrected.
+        </smilText>
+
+        <img src="icons/ledger-2.png" region="iconRegion6" begin="23s" fit="fill" />
+        <smilText region="dis_txt6" begin="23s" textFontSize="14" textColor="white">
+        Regulatory Uncertainty: Laws and regulations remain unclear.
+        </smilText>
+      </par>
+
+      </seq>
+    </par>
+
+<!-- ccl -->
+  <par dur="18s">
+      
+      <video src="bg/conclubg2.mp4" region="background-ccl" begin="0s" dur="19s" fit="fill"  repeatCount="indefinite"/>
+
+       <smilText region="title-ccl" begin="0s" textFontSize="26" textColor="white">
+      In Conclusion</smilText>
+
+      <smilText region="thanks-ccl" begin="1s" textFontSize="26" textColor="white">
+      Thanks to Blockchain !</smilText>
+
+     <img src="icons/icone2.png" region="icon-ccl" begin="3s" fit="fill" />
+      
+      <smilText region="textOverlay-ccl" begin="3s" textFontSize="16" textColor="white">
+      After this presentation, it is clear that blockchain is a revolutionary technology with the potential to transform a wide range of industries.</smilText>
+      
+      <smilText region="textOverlay2-ccl" begin="9s" textFontSize="16" textColor="white">
+      Its rapid adoption and increasing use are strong indicators of its growing importance in the digital age, marking it as a cornerstone for future innovation. </smilText>
+
+      
+      <audio src="voice over/concluvoiceover.mp3" begin="0s" dur="18s" />
+
+    </par>
+
+<!-- Thanks -->
+    <par dur="7s"> 
+      <video src="bg/thanksbg.mp4" region="background" begin="0s" dur="17s" fit="fill" repeatCount="indefinite" />
+
+       <smilText region="thanks1" begin="0s" textFontSize="26" textColor="white">
+      Thank you for your attention !</smilText>
+
+      <smilText region="thanks2" begin="0s" textFontSize="20" textColor="white">
+      And thanks to :</smilText>
+      
+      <smilText region="alaa" begin="0s" textFontSize="16" textColor="white">
+      Alae Mesgui</smilText>
+
+      <smilText region="ines" begin="0s" textFontSize="16" textColor="white">
+      Ines Djazari</smilText>
+
+      <smilText region="sabrinel" begin="0s" textFontSize="16" textColor="white">
+      Sabrinel Nait Cherif</smilText>
+
+      <smilText region="manel" begin="0s" textFontSize="16" textColor="white">
+      Manel Safia Hammam</smilText>
+
+      <smilText region="hiba" begin="0s" textFontSize="16" textColor="white">
+      Hiba Charif</smilText>
+    </par>
+
+</seq>
+</body>
+
+</smil>
